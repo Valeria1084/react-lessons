@@ -12,7 +12,8 @@
     "web-vitals": "^2.1.4",
     "axios": "^0.27.2",
     "react-router-dom": "^6.3.0",
-    "react-router": "^6.3.0"
+    "react-router": "^"
+
   },
   "scripts": {
     "start": "react-scripts start",
