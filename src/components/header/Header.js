@@ -7,8 +7,8 @@ function Header(  ) {
         <div>
             <h2>Menu</h2>
             <div><Link to={'todos'}>Todos</Link> </div>
-            <div><Link to={'albums'}/>Albums </div>
-            <div><Link to={'comments'}/>Comments</div>
+            <div><Link to={'albums'}>Albums</Link> </div>
+            <div><Link to={'comments'}>Comments </Link></div>
         </div>
     );
 }
